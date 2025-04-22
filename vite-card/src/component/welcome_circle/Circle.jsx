@@ -16,7 +16,7 @@ function Circle() {
             const newYCoord = Math.sin(angle) * 12;
             setXCoord(newXCoord);
             setYCoord(newYCoord);
-        }, 20); // Update every 10ms
+        }, 20); 
         return () => clearInterval(interval);
     }, [angle]);
     return (

@@ -23,7 +23,7 @@ This is a simple and aesthetic landing page which includes:
 ---
 
 ## Project Structure
-
+```bash
 vite-card/
 ├── node_modules/
 ├── public/
@@ -48,7 +48,7 @@ vite-card/
 ├── README.md
 ├── vite.config.js
 
-
+```
 
 ---
 
